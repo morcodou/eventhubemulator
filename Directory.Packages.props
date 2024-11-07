@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Azure.Messaging.EventHubs" Version="5.11.5" />
+    <PackageVersion Include="Azure.Messaging.EventHubs.Processor" Version="5.11.5" />
+  </ItemGroup>
+</Project>
